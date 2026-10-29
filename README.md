@@ -1,4 +1,4 @@
-# Module 7 Project - Semantic Search Engine
+#Semantic Search Engine
 
 ## Overview
 
